@@ -1,9 +1,9 @@
 class Patchdeck < Formula
   desc "Review-first console for multi-worktree Git workflows"
   homepage "https://github.com/thumbsu/patchdeck"
-  url "https://github.com/thumbsu/patchdeck/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "d4a2a593397972fea5551b41d18e452705d49da20fc3c8da5447e87856fa3f7e"
-  version "0.1.3"
+  url "https://github.com/thumbsu/patchdeck/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "2adafd51158dade815387a26d60f467e0076691bf5c35cb649947185471be049"
+  version "0.1.4"
 
   depends_on "go" => :build
 
